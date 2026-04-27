@@ -16,9 +16,13 @@ digital literacy tools.
 
 
 
+
+
 2. Modeling Power and Practical Boundaries of Petri Nets in Process Mining
 
 • Analyzed how process automation models improve transparency and efficiency in real business workflows.
+
 • Compared Petri nets and process trees to identify modeling strengths and limits in process mining applications.
+
 • Bridged theoretical research with practical automation design, demonstrating advanced analytical and system
 optimization skills.
